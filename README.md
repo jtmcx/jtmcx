@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-<img align="right" width="378px" src="images/adadisp.png">
+![image](images/adadisp.png)
 
 Hi! I'm a programmer with special interests in functional programming,
 formal methods, vintage computing, compilers, and language design. You
