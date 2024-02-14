@@ -1,8 +1,8 @@
 ## Hello! 👋
 
-![image](images/adadisp.png)
+<img src="images/adadisp.png" width="500px">
 
-Hi! I'm a programmer with special interests in functional programming,
+Hi! I'm a programmer with interests in functional programming,
 formal methods, vintage computing, compilers, and language design. You
 can find me around the web:
 
